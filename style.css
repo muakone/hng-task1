@@ -19,7 +19,7 @@ header {
     justify-content: center;
     text-align: center;
 }
-main p {
+main p, main a {
     font-size: 22px;
     margin: 10px auto;
 }
