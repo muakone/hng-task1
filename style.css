@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+header {
+    background-color: rgb(58, 54, 54);
+    color: white;
+    text-align: center;
+    padding: 18px;
+    font-size: 28px;
+}
+.main {
+    display: flex;
+    flex-direction: column;
+    margin: 70px auto;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+main p {
+    font-size: 22px;
+    margin: 10px auto;
+}
+
+.profile {
+    max-width: 380px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 30px 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+.profile img {
+    width: 100%;
+    
+    object-fit: cover;
+}
+.profile h2 {
+    font-size: 34px;
+    margin: 10px auto 20px auto;
+}
+
+
+
+
+
+
+
